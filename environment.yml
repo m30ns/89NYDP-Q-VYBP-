@@ -1,0 +1,10 @@
+name: notebook
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12.4=h194c7f8_0_cpython
+  - odc-stac=0.3.10=pyhd8ed1ab_1
+  - pystac-client=0.8.2=pyhd8ed1ab_0
+  - planetary-computer=1.0.0=pyhd8ed1ab_0
+  - matplotlib-base=3.9.1=py312h9201f00_0
